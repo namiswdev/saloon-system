@@ -1,0 +1,6 @@
+Rebonding;Male;Short;50.00
+Rebonding;Male;Medium;70.00
+Rebonding;Male;Long;90.00
+Rebonding;Female;Short;70.00
+Rebonding;Female;Medium;120.00
+Rebonding;Female;Long;150.00

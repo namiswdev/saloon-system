@@ -1,0 +1,6 @@
+Wash;Male;Short;10.00
+Wash;Male;Medium;15.00
+Wash;Male;Long;20.00
+Wash;Female;Short;15.00
+Wash;Female;Medium;20.00
+Wash;Female;Long;25.00

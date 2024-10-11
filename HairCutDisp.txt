@@ -1,0 +1,6 @@
+HairCut;Male(Kids);8.00
+HairCut;Female(Kids);10.00
+HairCut;Male(Adult);15.00
+HairCut;Female(Adult);25.00
+
+

@@ -1,0 +1,3 @@
+Treatment;Scalp;72.00
+Treatment;Hair Loss;55.00
+Treatment;Dandruff;88.00
